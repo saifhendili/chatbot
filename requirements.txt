@@ -7,3 +7,4 @@ pymongo==4.12.0
 python-dotenv==1.1.0
 qdrant_client==1.13.3
 uvicorn==0.34.1
+gunicorn
